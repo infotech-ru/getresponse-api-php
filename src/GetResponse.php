@@ -1,5 +1,7 @@
 <?php
 
+namespace Infotech\GetResponse;
+
 /**
  * GetResponse API v3 client library
  *
