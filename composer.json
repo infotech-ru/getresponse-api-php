@@ -1,7 +1,7 @@
 {
     "name": "infotech/getresponse",
     "description": "GetResponse API v3 client library.",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "homepage": "https://github.com/GetResponse/getresponse-api-php",
     "keywords": ["GetResponse", "api", "email"],
     "type": "library",
@@ -21,7 +21,7 @@
         }
     ],
     "require": {
-        "php": ">=5.2.0",
+        "php": ">=5.4.0",
         "ext-curl": "*"
     },
     "autoload": {
